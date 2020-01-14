@@ -1,0 +1,36 @@
+# build #
+cmake
+
+# core package #
+anndata
+numpy
+pandas
+
+# statistics #
+scipy
+fisher
+statsmodels
+umap-learn
+MulticoreTSNE
+scikit-learn
+
+# graph #
+networkx
+python-louvain
+pyscenic
+
+# bioinfomatics #
+biopython
+goatools
+
+# network #
+requests
+
+# visualize #
+matplotlib
+seaborn
+plotly
+# optional pygraphviz
+
+# r #
+pyper
