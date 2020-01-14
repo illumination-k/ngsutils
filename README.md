@@ -1,8 +1,12 @@
 # ngsutils
 
+- My library for ngs analysis, especially Marchantia polymorpha
+- Make Interactive graph easily
+- Use R package in python
+
 ## external dependency
 
-- R 
+- R
 - edgeR
 - goseq
 - combat
@@ -16,7 +20,7 @@ Anndataを使いたい
 
 - wrapper to read featureCounts, edgeR and goseq results
 - wrapper to volcano plot, MA plot in matplotlib and plotly
-- clustermap by plotly 
+- clustermap by plotly
 - DEG analysis
 - GO analysis
 - cis regulatory elements enrichment analysis
@@ -24,4 +28,5 @@ Anndataを使いたい
 - bed utils
 - construct simple gene regulatory network (co-expression, glasso etc.,)
 - downloader
-- normalizer
+- normalizer (FPKM, RPKM, TPM, TMM, LTE etc.,)
+- statical methods (edgeR, DEseq2 in python)
