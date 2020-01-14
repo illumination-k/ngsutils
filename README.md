@@ -9,7 +9,6 @@
 - R
 - edgeR
 - goseq
-- combat
 - tidyverce
 
 ## 希望
@@ -30,3 +29,7 @@ Anndataを使いたい
 - downloader
 - normalizer (FPKM, RPKM, TPM, TMM, LTE etc.,)
 - statical methods (edgeR, DEseq2 in python)
+
+## reference
+
+- combat: https://github.com/brentp/combat.py

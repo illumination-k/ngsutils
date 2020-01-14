@@ -30,7 +30,11 @@ requests
 matplotlib
 seaborn
 plotly
+
 # optional pygraphviz
 
 # r #
 pyper
+
+# utils #
+tqdm
