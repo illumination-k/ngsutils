@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  ngsutils_env:
+    image: ilumination27/ngsutils:latest
+
+    container_name: ngsutils-env
+
+    user: jovyan
+
+    privileged: true
+
+    volumes:
+      - "./workspace:/home/jovyan/work"
+
+    command: sh -c "sleep infinity"
