@@ -6,7 +6,7 @@ services:
 
     container_name: ngsutils-env
 
-    user: jovyan
+    user: root
 
     privileged: true
 
