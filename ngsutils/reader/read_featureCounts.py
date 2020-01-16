@@ -3,7 +3,7 @@ import anndata
 import pandas as pd
 
 
-logger = logging.getLogger(__name__)
+logger = getLogger(__name__)
 
 
 def read_featureCounts(path_to_featureCounts_data: str, path_to_conditions: str="") -> anndata.core.anndata.AnnData:
