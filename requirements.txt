@@ -38,3 +38,7 @@ pyper
 
 # utils #
 tqdm
+
+# docs #
+sphinx
+sphinx_rtd_theme
