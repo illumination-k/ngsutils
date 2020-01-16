@@ -30,6 +30,10 @@ Anndataを使いたい
 - normalizer (FPKM, RPKM, TPM, TMM, LTE etc.,)
 - statical methods (edgeR, DEseq2 in python)
 
+## docs規約
+
+- [Google Style Python Docstrings](http://www.sphinx-doc.org/ja/master/usage/extensions/example_google.html#example-google)
+
 ## reference
 
 - combat: https://github.com/brentp/combat.py
