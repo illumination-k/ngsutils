@@ -18,6 +18,7 @@ scikit-learn
 networkx
 python-louvain
 pyscenic
+bctpy
 
 # bioinfomatics #
 biopython
